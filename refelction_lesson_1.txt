@@ -1,0 +1,11 @@
+It helps use find bugs made during the changes. Must remember the linux command.
+
+It could help rewind errors.
+
+It's better becuase daily saves may come at inconvient times and have no logical relation
+
+Because the file logically belong togehter and ar3e changed together.
+
+git log gives the history and git diff let us compare the difference between two diff
+
+The error and changes are always revertible.
