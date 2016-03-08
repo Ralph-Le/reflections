@@ -7,3 +7,5 @@ Add those files that logical belogn to a commit and compare them before the comm
 Branche lead to well different branches where different things can be done with out interacting and/or messing up the other branch.
 
 Diagramms help us see the branch sturcte, how the branches are related and if there are untracked changes.
+
+Merging two branches, merges one branch (specified) into the other (current) and adds to the current branch everyhting added from parent but not yet in this branch. We represent it to show that the new branch has two parents.
