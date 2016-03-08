@@ -1,0 +1,3 @@
+To create the metadata platform, it creats .git and the metadata
+
+The staging are remembers which files are to be tracked during the next commit and which to ignore. One can work with the staging area easily without mudlding up the commit.
