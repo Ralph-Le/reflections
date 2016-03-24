@@ -3,3 +3,4 @@ Maybe the change is detrimental or needs a new branch
 Branch: Mulitlinear history of a repository 
 Clone: Copy of repository
 Fork: Github clone of repository
+If you have the last knwon state of the remote stored locally, you can simply update that branch by FETCH when there were differences applied to to the remote and have a new branch and not your changes ovewrwritten like with PULL
